@@ -1,8 +1,8 @@
 Package.describe({
   summary: "Login service for Zendesk accounts",
-  version: "1.1.0",
+  version: "1.1.1",
   name: "revbucket:accounts-zendesk",
-  version: "1.1.0",
+  version: "1.1.1",
   documentation: "README.md",
   git: "https://github.com/revbucket/accounts-zendesk.git"
 
